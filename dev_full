@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>Dev</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" type="image/png" href="./favicon.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spectral|Rubik">
+    <script src="https://app.dev.roofle.coherentprojects.net/roof-quote-pro-embedded-widget.js?id=IBQSEs4DwUAkFAsP0gYi_" async></script>
+  </head>
+  <body> 
+  <ul>
+    <li><a href="https://vlucas84.github.io/RQP/">Dev (NL, BF + CLP)</a></li>
+    <li><a href="https://vlucas84.github.io/RQP/dev_full.html">Dev full-page (NL, BF + CLP)</a></li>
+   </ul>
+  </body>
+</html>
